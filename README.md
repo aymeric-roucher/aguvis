@@ -79,6 +79,11 @@ pip install -e .
 bash scripts/train.sh
 ```
 
+### Model Checkpoints
+
+- Aguvis-7B-720P: [Hugging Face](https://huggingface.co/xlangai/Aguvis-7B-720P)
+- Cooking... 🧑‍🍳
+
 ### Inference
 
 1. Configure your inference settings:

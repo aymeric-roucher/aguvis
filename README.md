@@ -54,7 +54,7 @@ conda activate aguvis
 
 3. Install PyTorch and dependencies:
 ```bash
-conda install pytorch torchvision torchaudio pytorch-cuda -c pytorch -c nvidia
+conda install torch torchvision torchaudio pytorch-cuda -c pytorch -c nvidia
 pip install -e .
 ```
 
